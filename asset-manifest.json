@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tugas-todolist/static/css/main.ee7d5c05.chunk.css",
+    "main.js": "/tugas-todolist/static/js/main.71d8ead5.chunk.js",
+    "main.js.map": "/tugas-todolist/static/js/main.71d8ead5.chunk.js.map",
+    "runtime-main.js": "/tugas-todolist/static/js/runtime-main.abc45d64.js",
+    "runtime-main.js.map": "/tugas-todolist/static/js/runtime-main.abc45d64.js.map",
+    "static/js/2.caa1f90d.chunk.js": "/tugas-todolist/static/js/2.caa1f90d.chunk.js",
+    "static/js/2.caa1f90d.chunk.js.map": "/tugas-todolist/static/js/2.caa1f90d.chunk.js.map",
+    "index.html": "/tugas-todolist/index.html",
+    "precache-manifest.eb4bee32dc24474877fa68428dccc0bb.js": "/tugas-todolist/precache-manifest.eb4bee32dc24474877fa68428dccc0bb.js",
+    "service-worker.js": "/tugas-todolist/service-worker.js",
+    "static/css/main.ee7d5c05.chunk.css.map": "/tugas-todolist/static/css/main.ee7d5c05.chunk.css.map",
+    "static/js/2.caa1f90d.chunk.js.LICENSE.txt": "/tugas-todolist/static/js/2.caa1f90d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abc45d64.js",
+    "static/js/2.caa1f90d.chunk.js",
+    "static/css/main.ee7d5c05.chunk.css",
+    "static/js/main.71d8ead5.chunk.js"
+  ]
+}
